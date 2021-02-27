@@ -6,5 +6,6 @@ Scott Lonsdale (c3303788)
 Memory.java
 Process.java
 
-compile using the given instruction from the assignment spec
-sorry for the late submission :)
+Input from the program would be taken by command line in the format
+java A3 F Q process1.txt process2.txt process3.txt
+where F is the number of frames and Q is the quantum size
